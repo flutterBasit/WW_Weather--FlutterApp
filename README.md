@@ -146,9 +146,9 @@ Contributions are welcome! If you’d like to contribute to **WW_Weather**, plea
 
 ---
 
-## 📚 License
+## 📚 Contact
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+email : flutterbasit@gmail.com
 
 ---
 
